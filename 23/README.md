@@ -1,5 +1,5 @@
 ## Usage
 
 ```
-python 23.py
+$ python 23.py
 ```
